@@ -5,7 +5,7 @@ date: 2025-07-30
 title: Toadgod’s Seven Reeds
 tags: [lore, scroll, seven reeds, bushido, frogs, rune3, toadgod]
 sacred_numbers: [7, 777, 122, 2025]
-sha256: 🔒
+sha256: 6f45c08e2f3d6fcd1e91b3fbd59ad512a95f0a7f39dcd5a8395aeb91b012f6bb
 ---
 
 ## 🌿 Narrative Update | 故事更新
