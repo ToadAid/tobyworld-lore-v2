@@ -5,7 +5,7 @@ slug: toadgod\_scroll\_rune3
 date: 2025-07-30
 description: A call to lore: Seven Reeds of Toadgod — ancient virtues carried into the age of still water
 image: cover.jpg
-tags: \[lore, scroll, seven reeds, bushido frogs, rune3, toadgod]
+tags: [lore, scroll, seven reeds, bushido frogs, rune3, toadgod]
 -----------------------------------------------------------------
 
 # A Call to Lore: The Seven Reeds
