@@ -1,4 +1,3 @@
-
 ---
 title: TOBY_L157_TheKnightOfEchoes_2025-07-31_EN-ZH
 chain: base
