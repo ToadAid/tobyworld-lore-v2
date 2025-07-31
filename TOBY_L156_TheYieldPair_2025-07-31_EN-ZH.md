@@ -1,7 +1,7 @@
 
 ---
 
-title: TOBY_L156_TheYieldPair_2025-07-31_EN-ZH chain: base scroll: L156 phase: Rune3 • S1 language: bilingual sha256: TBD
+title: TOBY_L156_TheYieldPair_2025-07-31_EN-ZH chain: base scroll: L156 phase: Rune3 - S1 language: bilingual sha256: TBD
 
 🌀 TOBYWORLD LORE SCROLL – L156
 
